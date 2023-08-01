@@ -1,0 +1,16 @@
+name = "Orchard SMP"
+author = "SquirrelKiev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "789b4ddad4e05cdbfadad7f53b0cc2048d31b609ac41c0589d9bdd6477018245"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
+
+[options]
+datapack-folder = "config/openloader/data"
