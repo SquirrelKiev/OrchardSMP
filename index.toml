@@ -40,7 +40,7 @@ hash = "312f2e2b9a094718c1c0464957a3f8ca64c68ae7fb9652c3887fbc44cde5bb1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bf1a012258650f05597f513ed021b126db55b64d4f19a3a1874ddeb9f074308e"
+hash = "896bd89b7ec02218103d8767ca90b56400eff3e0f6b976002633cbf837f3d282"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -140,11 +140,6 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
-metafile = true
-
-[[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "416a132f194efbd5559776c251c9371f667c170b72ae12b71ed275f77f91c0dd"
 metafile = true
 
 [[files]]
@@ -295,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "fd5c552628fcda7f9c6504c5e7f6712bd87d9649e18da8a13028d7d4fa81ff56"
 metafile = true
 
 [[files]]
