@@ -76,6 +76,11 @@ hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "6eb0b682608efaf6c7e6b7310014a2933f4563422a9e0bbc96a05ad4ed57b900"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
 metafile = true
@@ -126,6 +131,16 @@ hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "b4207bec27c7384998b4349abed959f81fb033b5bce212d44842b6b365484787"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
@@ -153,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "be160873f910e05a59aab41a59e682a41f9c413642e24727383505c013e5e3fc"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -196,6 +216,11 @@ hash = "2a6e243aabbad7c6bb23561a4f4572403a06e41b7cbcc94282eeae899d0e54a6"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "5647fd9dfba63e8830df6711fe55129e6bb20badea23b873ffefc7b2d0327625"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
@@ -218,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/glassential-fabric.pw.toml"
+hash = "79e589180c066981e004cea45367bf8c25018130c0be94190ea9d775a2072301"
 metafile = true
 
 [[files]]
@@ -281,6 +311,11 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "9f685b67475aff2e953ed22ed5992e259e51a324847ba84910996f7a89d79b57"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -326,6 +361,11 @@ hash = "696ea2237f9a4aa10af435874d7ef548f69e4bf418690ab68423dc8ccc38a72c"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "92e056e29d0838a3b3a76fb1797fbad1d6629d8d578a338cf6768932bd3e6018"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "fae507c732292cd2a041116bd02531b09227f99330ee7359ef413905d8551406"
 metafile = true
@@ -333,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "90f8d140be45787ddb039f62015362d54ead182ef6c40761067db709e1d349be"
 metafile = true
 
 [[files]]
@@ -451,8 +496,43 @@ hash = "caa3e3bfa6ed3dcc5586cb8e8c073d76d0d08b2dbe6518d2dad6c9cbcc6b8943"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "46e8cbe62a4aeb2689e0d7c5d23f70c3f02d4a63a3abdd13df6ef15aaf259f47"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8dab797219b7e7127e1324a3e8f929d22017e90373c68aa8afda970f33b838dc"
+metafile = true
+
+[[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "24c5360aa4598486b3ef314583b2494762f66e9b578fe31b48d804f1cce95996"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "81d231876863da2807d97a43909a14d301d33fa281ed76f641e776bc5aac60d3"
 metafile = true
 
 [[files]]
