@@ -5,6 +5,10 @@ file = "config/campanion.json"
 hash = "4b38fb8d2dae2be5611fa7d608a64c532cd14430f768f6cb236ab22782fc4fd8"
 
 [[files]]
+file = "config/figura.json"
+hash = "d341f1211c639a185633595664af15be8c6c53830a4919ec23712589ad19abc4"
+
+[[files]]
 file = "config/map_atlases.json5"
 hash = "3fbba49fc31ca248390dc3c8ad95a4d2e3c7a0e13a884f72f71092a37fbf0bce"
 
@@ -415,9 +419,8 @@ hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
 
 [[files]]
-file = "mods/originstweaks.pw.toml"
-hash = "57e6f725adb039ae9568cf4b8f227db46f7c7b7b6641460d7bc6e99f5e869403"
-metafile = true
+file = "mods/originstweaks-1.15.3-tweaked.jar"
+hash = "abdd57cca190705c2b9bd7ef9db1c236e3e245ca8d23774a362e92347665fe0e"
 
 [[files]]
 file = "mods/pehkui.pw.toml"
@@ -522,11 +525,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8dab797219b7e7127e1324a3e8f929d22017e90373c68aa8afda970f33b838dc"
-metafile = true
-
-[[files]]
-file = "mods/talkbubbles.pw.toml"
-hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
 metafile = true
 
 [[files]]
