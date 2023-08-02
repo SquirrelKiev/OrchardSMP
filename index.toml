@@ -193,6 +193,11 @@ hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
 metafile = true
@@ -385,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7304189f973e1ec2434bc2ffba74d69ea0162a4c082df904f1f6fccce88c9dc4"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "a4d3ff3da2ec18672889c279406ab6d01022e097d8d6a51c46256ddf6ebbb9df"
 metafile = true
 
 [[files]]
