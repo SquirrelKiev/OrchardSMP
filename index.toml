@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "753cfd7a8ba7202025ed22f5d1a62f3f118ffdad27cfe3e11994f153a63803fa"
+
+[[files]]
+file = "config/campanion.json"
+hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
+
+[[files]]
+file = "config/map_atlases.json5"
+hash = "1a67032dd7a53faea4058eedc66acb7e3930595852aedaa0d6ed97b91be6e012"
+
+[[files]]
 file = "config/openloader/data/cheaper-map-crafting.pw.toml"
 hash = "ce3c34c08fecc29cdd2c78ea656fa79088da73dc995898460342f657641ebec0"
 metafile = true
@@ -29,6 +41,18 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-better-witch-huts-compat.pw.toml"
 hash = "658c45f1062ca47bfd61c4452ec6103b1cc1641326232cf5bceb65c1a726793b"
 metafile = true
+
+[[files]]
+file = "config/openloader/data/track raw statistics v1.5.3 (MC 1.19.x).zip"
+hash = "2d3b791b222911645758ce5f482f62e1a7696d232622d7e013ca44c2daa4024d"
+
+[[files]]
+file = "config/openloader/data/track statistics v1.1.4 (MC 1.19.x).zip"
+hash = "975e59ae06f7fdb87ebc9034dae1fc7677ba0615ede1c9b6461e8764453bc39b"
+
+[[files]]
+file = "config/openloader/resources/No-Spyglass-Overlay.zip"
+hash = "367903af7881955113cc5fbc4d0e35629b099a2fe91a3d7782bb99fa276a5106"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -68,8 +92,18 @@ hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
 metafile = true
 
 [[files]]
@@ -228,11 +262,6 @@ hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
 
 [[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "7633f2b06ec5fa608b6293978d6781efa713e0a497a3214174e98f935408c3dd"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -258,6 +287,11 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
 metafile = true
@@ -275,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
 metafile = true
 
 [[files]]
@@ -368,6 +407,11 @@ hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+metafile = true
+
+[[files]]
 file = "mods/realisticsleep.pw.toml"
 hash = "b362013784ee5b35eb668c1e642d19652e5ec22919ff50336f2f3883381022e9"
 metafile = true
@@ -390,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
 metafile = true
 
 [[files]]
@@ -440,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
 
 [[files]]
