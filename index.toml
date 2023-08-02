@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bclib/client.json"
-hash = "753cfd7a8ba7202025ed22f5d1a62f3f118ffdad27cfe3e11994f153a63803fa"
-
-[[files]]
 file = "config/campanion.json"
-hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
+hash = "4b38fb8d2dae2be5611fa7d608a64c532cd14430f768f6cb236ab22782fc4fd8"
 
 [[files]]
 file = "config/map_atlases.json5"
-hash = "1a67032dd7a53faea4058eedc66acb7e3930595852aedaa0d6ed97b91be6e012"
+hash = "3fbba49fc31ca248390dc3c8ad95a4d2e3c7a0e13a884f72f71092a37fbf0bce"
 
 [[files]]
 file = "config/openloader/data/cheaper-map-crafting.pw.toml"
@@ -41,18 +37,6 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-better-witch-huts-compat.pw.toml"
 hash = "658c45f1062ca47bfd61c4452ec6103b1cc1641326232cf5bceb65c1a726793b"
 metafile = true
-
-[[files]]
-file = "config/openloader/data/track raw statistics v1.5.3 (MC 1.19.x).zip"
-hash = "2d3b791b222911645758ce5f482f62e1a7696d232622d7e013ca44c2daa4024d"
-
-[[files]]
-file = "config/openloader/data/track statistics v1.1.4 (MC 1.19.x).zip"
-hash = "975e59ae06f7fdb87ebc9034dae1fc7677ba0615ede1c9b6461e8764453bc39b"
-
-[[files]]
-file = "config/openloader/resources/No-Spyglass-Overlay.zip"
-hash = "367903af7881955113cc5fbc4d0e35629b099a2fe91a3d7782bb99fa276a5106"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -299,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
