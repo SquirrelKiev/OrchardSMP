@@ -404,6 +404,11 @@ hash = "aa2e9887f3e7716b653b69c97d2a475d9be64da1a364d98cce3ea5685ffafba8"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
+metafile = true
+
+[[files]]
 file = "mods/not-just-biomes.pw.toml"
 hash = "16e53fc602cb40957b08ecea789c8b9f104600239d94e43583060d695bbb5847"
 metafile = true
