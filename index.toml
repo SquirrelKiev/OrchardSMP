@@ -493,6 +493,11 @@ hash = "66d8149059c590665d778d8bda09e4344a9307ca391976d43b9ae868b4ed760d"
 metafile = true
 
 [[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7304189f973e1ec2434bc2ffba74d69ea0162a4c082df904f1f6fccce88c9dc4"
 metafile = true
