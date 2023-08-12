@@ -1,6 +1,7 @@
 name = "Repurposed Structures - Better Witch Huts Compat"
 filename = "Repurposed_Structures-Better_Witch_Huts_v3.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ePaZVJM4/versions/b9oATiBP/Repurposed_Structures-Better_Witch_Huts_v3.zip"
