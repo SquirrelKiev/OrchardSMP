@@ -17,7 +17,7 @@
 - [Chunk Loaders](https://modrinth.com/mod/t1VgucWo)
 - [Chunky](https://modrinth.com/mod/fALzjamp)
 - [Cloth Config API](https://modrinth.com/mod/9s6osm5g)
-- [Companion ­ƒÉò](https://modrinth.com/mod/4w0EzGRW)
+- [Companion ­🐕](https://modrinth.com/mod/4w0EzGRW)
 - [Continuity](https://modrinth.com/mod/1IjD5062)
 - [Controlling](https://modrinth.com/mod/xv94TkTM)
 - [Create Fabric](https://modrinth.com/mod/Xbc0uyRg)
