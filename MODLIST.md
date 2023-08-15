@@ -47,7 +47,7 @@
 - [Inertia Anti Cheat](https://modrinth.com/mod/ljWczies)
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
 - [Jade Addons (Fabric)](https://modrinth.com/mod/fThnVRli)
-- [Jade ­ƒöì](https://modrinth.com/mod/nvQzSEkH)
+- [Jade ­🔍](https://modrinth.com/mod/nvQzSEkH)
 - [JamLib](https://modrinth.com/mod/IYY9Siz8)
 - [Joy of Painting](https://modrinth.com/mod/YOs4tZea)
 - [Konkrete](https://modrinth.com/mod/J81TRJWm)
