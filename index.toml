@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
 
 [[files]]
@@ -252,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/figura-0.1.2+1.19.2-fabric-mc.jar"
 hash = "a63b02dc4f4b88b4bbb73bdd5f7040608ed97ef68877f4b1eaf4885a2a0a15df"
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
+metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -295,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b50e20549a820d067ba78729ff9612f45ca69356698de1c1e2838ae09ab4c63f"
+hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
 metafile = true
 
 [[files]]
@@ -400,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "90f8d140be45787ddb039f62015362d54ead182ef6c40761067db709e1d349be"
+hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
 metafile = true
 
 [[files]]
@@ -509,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ae39b0afe2564604ec3ffe9090a2cc297264081da967b73bc462cb4fe75e5009"
+hash = "eca513374a4197d2884e62012eca867307560979109adf914c564aa502ab6dc4"
 metafile = true
 
 [[files]]
