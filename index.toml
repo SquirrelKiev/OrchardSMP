@@ -65,6 +65,16 @@ hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
 
 [[files]]
+file = "mods/anvil-fix-reborn.pw.toml"
+hash = "5e19974ba55bda6674f8d185ef245da2931fbf1763cfd854dddd3132e00d5a1b"
+metafile = true
+
+[[files]]
+file = "mods/anvil-repairing.pw.toml"
+hash = "5e6f2a9709e4453a2350811091cb2d785ba5a3c394e7b83acf066799c1ed26d4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -514,12 +524,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "eca513374a4197d2884e62012eca867307560979109adf914c564aa502ab6dc4"
+hash = "f607064c1338f271465eee416a77ae0475aed1a84559fc1deb1e4e3b33ceb66f"
 metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "4b5acacc6c6e108a6e1535d763a18d57c7672c857842ea2b58deda140ad79117"
+hash = "6b41f2f5b2c1c4afa61e91be9a0513c4cc1f7345765e0ed9879c0cd6f1f736ef"
 metafile = true
 
 [[files]]
@@ -559,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8dab797219b7e7127e1324a3e8f929d22017e90373c68aa8afda970f33b838dc"
+hash = "4d38f595922ec84bc874ad6d18b03a99f7f6a2d3c98e6a579c620d7079fe0ad5"
 metafile = true
 
 [[files]]

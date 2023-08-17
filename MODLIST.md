@@ -1,117 +1,118 @@
-﻿- [Advancement Plaques](https://modrinth.com/mod/9NM0dXub)
-- [Amecs](https://modrinth.com/mod/rcLriA4v)
-- [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
-- [Architectury API](https://modrinth.com/mod/lhGA9TYQ)
-- [bad packets](https://modrinth.com/mod/ftdbN0KK)
-- [Bedspreads](https://modrinth.com/mod/vNNL5mc7)
-- [Better Nether Map](https://modrinth.com/mod/fdtm99de)
-- [Bits And Chisels](https://modrinth.com/mod/q8MC5tW2)
-- [Blur (Fabric)](https://modrinth.com/mod/NK39zBp2)
-- [Borderless Mining](https://modrinth.com/mod/kYq5qkSL)
-- [Botarium](https://modrinth.com/mod/2u6LRnMa)
-- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q)
-- [Campanion](https://modrinth.com/mod/Y2Rds0HS)
-- [CC: Restitched](https://modrinth.com/mod/eldBwa5V)
-- [CC:C Bridge](https://modrinth.com/mod/fXt291FO)
-- [Chipped](https://modrinth.com/mod/BAscRYKm)
-- [Chunk Loaders](https://modrinth.com/mod/t1VgucWo)
-- [Chunky](https://modrinth.com/mod/fALzjamp)
-- [Cloth Config API](https://modrinth.com/mod/9s6osm5g)
-- [Companion ­🐕](https://modrinth.com/mod/4w0EzGRW)
-- [Continuity](https://modrinth.com/mod/1IjD5062)
-- [Controlling](https://modrinth.com/mod/xv94TkTM)
-- [Create Fabric](https://modrinth.com/mod/Xbc0uyRg)
-- [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM)
-- [DeathLog](https://modrinth.com/mod/TPAYeAOc)
-- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
-- [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)
-- [EMI Loot](https://modrinth.com/mod/qbbO7Jns)
-- [EMI](https://modrinth.com/mod/fRiHVvU7)
-- [EMICompat](https://modrinth.com/mod/cK0i8gTV)
-- [EMIffect](https://modrinth.com/mod/705gWllI)
-- [Entity Culling](https://modrinth.com/mod/NNAgCjsB)
-- [Exordium](https://modrinth.com/mod/DynYZEae)
-- [Extended Drawers](https://modrinth.com/mod/AhtxbnpG)
-- [Fabric API](https://modrinth.com/mod/P7dR8mSH)
-- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)
-- [Farmer's Delight [Fabric]](https://modrinth.com/mod/4EakbH8e)
-- [FerriteCore](https://modrinth.com/mod/uXXizFIs)
-- [Figura](https://modrinth.com/mod/s9gIPDom)
-- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps)
-- [Glassential (Fabric/Quilt)](https://modrinth.com/mod/Hhaag1wJ)
-- [Handcrafted](https://modrinth.com/mod/pJmCFF0p)
-- [Iceberg](https://modrinth.com/mod/5faXoLqX)
-- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)
-- [Immersive Weathering](https://modrinth.com/mod/jkskOO9i)
-- [Indium](https://modrinth.com/mod/Orvt0mRa)
-- [Inertia Anti Cheat](https://modrinth.com/mod/ljWczies)
-- [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
-- [Jade Addons (Fabric)](https://modrinth.com/mod/fThnVRli)
-- [Jade ­🔍](https://modrinth.com/mod/nvQzSEkH)
-- [JamLib](https://modrinth.com/mod/IYY9Siz8)
-- [Joy of Painting](https://modrinth.com/mod/YOs4tZea)
-- [Konkrete](https://modrinth.com/mod/J81TRJWm)
-- [Krypton](https://modrinth.com/mod/fQEb0iXm)
-- [Storage Labels](https://modrinth.com/mod/x6r7yhfi)
-- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)
-- [LazyDFU](https://modrinth.com/mod/hvFnDODi)
-- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV)
-- [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV)
-- [Let Sleeping Dogs Lie - Fabric](https://modrinth.com/mod/DpyXb96r)
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ)
-- [Map Atlases](https://modrinth.com/mod/C255PPUX)
-- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD)
-- [MidnightLib](https://modrinth.com/mod/codAaoxh)
-- [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN)
-- [ModernFix](https://modrinth.com/mod/nmDcB62a)
-- [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
-- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc)
-- [More Culling](https://modrinth.com/mod/51shyZVL)
-- [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u)
-- [Music Maker Mod](https://modrinth.com/mod/qQpWCN75)
-- [Not Just Biomes](https://modrinth.com/mod/EIT1cuHa)
-- [Open Loader](https://modrinth.com/mod/KwWsINvD)
-- [Origins](https://modrinth.com/mod/3BeIrqZR)
-- [OriginsTweaks](https://modrinth.com/mod/FRBxogjw)
-- [Packages](https://modrinth.com/mod/10DZYVis)
-- [Pehkui](https://modrinth.com/mod/t5W7Jfwy)
-- [Polymorph](https://modrinth.com/mod/tagwiZkJ)
-- [Prism](https://modrinth.com/mod/1OE8wbN0)
-- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M)
-- [Realistic Sleep](https://modrinth.com/mod/ZPywkPEo)
-- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)
-- [Repurposed Structures - Quilt/Fabric](https://modrinth.com/mod/muf0XoRe)
-- [Resourceful Config](https://modrinth.com/mod/M1953qlQ)
-- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD)
-- [RightClickHarvest](https://modrinth.com/mod/Cnejf5xM)
-- [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf)
-- [Show Me What You Got](https://modrinth.com/mod/jTUiUpsh)
-- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1)
-- [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A)
-- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
-- [Sodium](https://modrinth.com/mod/AANobbMI)
-- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
-- [spark](https://modrinth.com/mod/l6YH9Als)
-- [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
-- [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP)
-- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv)
-- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
-- [Tectonic](https://modrinth.com/mod/lWDHr9jE)
-- [Trash Cans](https://modrinth.com/mod/4QrnfueM)
-- [Trinkets](https://modrinth.com/mod/5aaWibi9)
-- [Very Many Players (Fabric)](https://modrinth.com/mod/wnEe9KBa)
-- [Voice Chat Interaction](https://modrinth.com/mod/qsSP2ZZ0)
-- [You're in Grave Danger](https://modrinth.com/mod/HnD1GX6e)
-- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/WwbubTsV)
-- [YUNG's API](https://modrinth.com/mod/Ua7DFN59)
-- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)
-- [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)
-- [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr)
-- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4)
-- [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)
-- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87)
-- [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq)
-- [Zoomglass](https://modrinth.com/mod/jRrJYVVU)
-- [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful)
-- [Lootr (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric)
-- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) - Replace those boring advancement popups with something flashier.
+- [Amecs](https://modrinth.com/mod/rcLriA4v) - Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.
+- [Anvil Fix Reborn](https://modrinth.com/mod/oIoAucDh) - Anvil Fix Reborn is a forked version of OnyxStudio's Anvil Fix mod, updated for versions later than 1.18.  It removes the "Too Expensive" mechanic from minecraft.
+- [Anvil Repairing](https://modrinth.com/mod/gY0sChT6) - Allows players to repair their chipped and damaged anvils.
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) - Food/hunger-related HUD improvements
+- [Architectury API](https://modrinth.com/mod/lhGA9TYQ) - An intermediary api aimed to ease developing multiplatform mods.
+- [bad packets](https://modrinth.com/mod/ftdbN0KK) - Bad Packets allows packet messaging between different modding platforms.
+- [Bedspreads](https://modrinth.com/mod/vNNL5mc7) - Allows players to add banner patterns to their beds! Formerly known as Cosmetic Beds.
+- [Better Nether Map](https://modrinth.com/mod/fdtm99de) - Makes maps work better in the Nether and in other cave dimensions.
+- [Bits And Chisels](https://modrinth.com/mod/q8MC5tW2) - Turn Blocks Into Small Bits With Chisels; Build All The Things
+- [Blur (Fabric)](https://modrinth.com/mod/NK39zBp2) - Adds a blur effect to all GUI backgrounds - now for Fabric!
+- [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) - Changes Fullscreen to use a borderless window.
+- [Botarium](https://modrinth.com/mod/2u6LRnMa) - A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q) - A Fabric mod designed to improve the chunk performance of Minecraft.
+- [Campanion](https://modrinth.com/mod/Y2Rds0HS) - A camping mod adding all kind of utilities related to the outdoors.
+- [CC: Restitched](https://modrinth.com/mod/eldBwa5V) - ComputerCraft Tweaked for Fabric
+- [CC:C Bridge](https://modrinth.com/mod/fXt291FO) - Adds compatibility between the ComputerCraft and Create mod with peripherals!
+- [Chipped](https://modrinth.com/mod/BAscRYKm) - Every block deserves a friend.
+- [Chunk Loaders](https://modrinth.com/mod/t1VgucWo) - Chunk Loaders allows you keep chunks loaded with different tiers of chunk loaders!
+- [Chunky](https://modrinth.com/mod/fALzjamp) - Pre-generates chunks, quickly and efficiently
+- [Cloth Config API](https://modrinth.com/mod/9s6osm5g) - Configuration Library for Minecraft Mods
+- [Companion 🐕](https://modrinth.com/mod/4w0EzGRW) - Mechanics to avoid losing your pets, but do not break the vanilla feel
+- [Continuity](https://modrinth.com/mod/1IjD5062) - A Fabric mod that allows for efficient connected textures
+- [Controlling](https://modrinth.com/mod/xv94TkTM) - Adds a search bar to the Key-Bindings menu
+- [Create Fabric](https://modrinth.com/mod/Xbc0uyRg) - Building Tools and Aesthetic Technology
+- [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) - Makes the loading screen darker.
+- [DeathLog](https://modrinth.com/mod/TPAYeAOc) - Keeps track of the many embarrassing times you died
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) - Improve performance when Minecraft is in the background.
+- [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - Reduce FPS lag with block entities, as well as customize them with resource packs
+- [EMI Loot](https://modrinth.com/mod/qbbO7Jns) - A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.
+- [EMI](https://modrinth.com/mod/fRiHVvU7) - A featureful and accessible item and recipe viewer
+- [EMICompat](https://modrinth.com/mod/cK0i8gTV) - Add other mod compatibility to EMI
+- [EMIffect](https://modrinth.com/mod/705gWllI) - EMI addon that appends status effects in EMI and provides information about each status effect.
+- [Entity Culling](https://modrinth.com/mod/NNAgCjsB) - Using async path-tracing to hide Block-/Entities that are not visible
+- [Exordium](https://modrinth.com/mod/DynYZEae) - Render the GUI and screens at a lower framerate to speed up what's really important: the worldrendering.
+- [Extended Drawers](https://modrinth.com/mod/AhtxbnpG) - Adds drawers and more
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) - Fabric Language Kotlin
+- [Farmer's Delight [Fabric]](https://modrinth.com/mod/4EakbH8e) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft.
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) - Memory usage optimizations
+- [Figura](https://modrinth.com/mod/s9gIPDom) - A client-side mod that allows for extensive customization of the player model.
+- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) - Forge's whole config system provided to the Fabric ecosystem. Designed for a multiloader architecture.
+- [Glassential (Fabric/Quilt)](https://modrinth.com/mod/Hhaag1wJ) - Various types of glass to aid in your building
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) - Make your house a home!
+- [Iceberg](https://modrinth.com/mod/5faXoLqX) - A modding library that contains new events, helpers, and utilities to make modder's lives easier.
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) - Speed up immediate mode rendering in Minecraft
+- [Immersive Weathering](https://modrinth.com/mod/jkskOO9i) - An abundance of new natural systems to make your world feel more alive than ever.
+- [Indium](https://modrinth.com/mod/Orvt0mRa) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
+- [Inertia Anti Cheat](https://modrinth.com/mod/ljWczies) - Stop people from using unwanted mods on your server!
+- [Iris Shaders](https://modrinth.com/mod/YL57xq9U) - A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
+- [Jade Addons (Fabric)](https://modrinth.com/mod/fThnVRli) - Jade 🔍's additional mod supports for Fabric
+- [Jade 🔍](https://modrinth.com/mod/nvQzSEkH) - Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)
+- [JamLib](https://modrinth.com/mod/IYY9Siz8) - A library used by JamCoreModding's mods
+- [Joy of Painting](https://modrinth.com/mod/YOs4tZea) - This mod lets you craft a blank canvas and a palette, with which you can paint your own pictures and hang them on a wall like the vanilla paintings.
+- [Konkrete](https://modrinth.com/mod/J81TRJWm) - Just another boring library mod.
+- [Krypton](https://modrinth.com/mod/fQEb0iXm) - A mod to optimize the Minecraft networking stack
+- [Storage Labels](https://modrinth.com/mod/x6r7yhfi) - Fancy Item Labels, perfect for your item storages
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) - A dynamic lights mod for Fabric.
+- [LazyDFU](https://modrinth.com/mod/hvFnDODi) - Makes the game boot faster by deferring non-essential initialization
+- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) - Quick leaf decay from cutting down trees. Built for fast performance and mod compat!
+- [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) - Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.
+- [Let Sleeping Dogs Lie - Fabric](https://modrinth.com/mod/DpyXb96r) - Mod that lets dogs lie down after sitting for a while.
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) - No-compromises game logic/server optimization mod
+- [Map Atlases](https://modrinth.com/mod/C255PPUX) -  A vanilla-friendly mini-map/world-map mod using vanilla Maps! 
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) - A mod that fixes random memory leaks for both the client and server
+- [MidnightLib](https://modrinth.com/mod/codAaoxh) - Common library with a built-in configuration system
+- [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) - Target Dummy that show damage dealt and can be equipped with armor
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) - Adds a mod menu to view the list of mods you have installed.
+- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) - dynamic data pack and registration, villager activities, custom map marker and a lot more
+- [More Culling](https://modrinth.com/mod/51shyZVL) - A mod that changes how multiple types of culling are handled in order to improve performance
+- [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u) - A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more!
+- [Music Maker Mod](https://modrinth.com/mod/qQpWCN75) - Music Maker Mod adds music sheets, instruments and other devices to the game for creating and playing music.
+- [Not Just Biomes](https://modrinth.com/mod/EIT1cuHa) - A collection of modular enhancements to vanilla biomes and structures!
+- [Open Loader](https://modrinth.com/mod/KwWsINvD) - An open source resource and data loader for Minecraft.
+- [Origins](https://modrinth.com/mod/3BeIrqZR) - Players choose an Origin at the beginning of the game to gain benefits and drawbacks
+- [Packages](https://modrinth.com/mod/10DZYVis) - Opinionated item storage. Sucessor to Worse Barrels.
+- [Pehkui](https://modrinth.com/mod/t5W7Jfwy) - Lets you change the size of most entities, shrinking them smaller or growing them larger
+- [Polymorph](https://modrinth.com/mod/tagwiZkJ) - No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.
+- [Prism](https://modrinth.com/mod/1OE8wbN0) - A library all about color! Provides lots of color-related functionality for dependent mods.
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) - Why's it called Puzzles you ask? That's the puzzle!
+- [Realistic Sleep](https://modrinth.com/mod/ZPywkPEo) - Makes sleeping speed up time instead of skipping to day.
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) - Alternative Options Menu for Sodium
+- [Repurposed Structures - Quilt/Fabric](https://modrinth.com/mod/muf0XoRe) - Adds more variations of vanilla structures and features such as a Jungle Fortress!
+- [Resourceful Config](https://modrinth.com/mod/M1953qlQ) - Resourceful Config is a mod that allows for developers to make cross-platform configs
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
+- [RightClickHarvest](https://modrinth.com/mod/Cnejf5xM) - Allows you to harvest crops by right clicking
+- [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf) - A simple Minecraft -> Discord Chat Link bot with Whitelisting
+- [Show Me What You Got](https://modrinth.com/mod/jTUiUpsh) - Allows displaying your items in chat. Brag about your cool equipment!
+- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) - A working voice chat in Minecraft!
+- [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) - Making automation for Farmers Delight more sensible
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) - Features that shouldn't be in Sodium.
+- [Sodium](https://modrinth.com/mod/AANobbMI) - A modern rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing graphical issues
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+- [spark](https://modrinth.com/mod/l6YH9Als) - spark is a performance profiler for Minecraft clients, servers and proxies.
+- [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC) - Rewrites the light engine to fix lighting performance and lighting errors
+- [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) - Config Lib makes dealing with config files just a bit easier.
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) - Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE) - Enhanced terrain generation with mountain ranges, underground rivers, and more!
+- [Trash Cans](https://modrinth.com/mod/4QrnfueM) - Trash Cans adds trash cans which can be used to void items, liquids, and energy!
+- [Trinkets](https://modrinth.com/mod/5aaWibi9) - A data-driven accessory mod
+- [Very Many Players (Fabric)](https://modrinth.com/mod/wnEe9KBa) - A Fabric mod designed to improve server performance at high playercounts.
+- [Voice Chat Interaction](https://modrinth.com/mod/qsSP2ZZ0) - Voice chat skulk sensor activation and warden detection
+- [You're in Grave Danger](https://modrinth.com/mod/HnD1GX6e) - A mod focused around death. Will add graves to minecraft
+- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/WwbubTsV) - Your options shall be respected.
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) - Library mod for YUNG's mods.
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) - A complete redesign of Minecraft's desert temples!
+- [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) - A complete redesign of Minecraft's dungeons!
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) - A long-awaited and much-needed abandoned mineshaft overhaul!
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) - A complete redesign of Minecraft's ocean monuments!
+- [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) - A complete redesign of Minecraft's strongholds!
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) - Adds overhauled witch huts to swamps!
+- [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) - Extra structures, features, and vanilla+ content suitable for any modpack!
+- [Zoomglass](https://modrinth.com/mod/jRrJYVVU) - Use a spyglass quickly, with a press of a button!
+- [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) - Emojis in minecraft
+- [Lootr (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) - Nature's Compass is an item that allows you to locate biomes anywhere in the world.

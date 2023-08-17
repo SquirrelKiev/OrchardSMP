@@ -1,0 +1,13 @@
+name = "Anvil Repairing"
+filename = "AnvilRepairing-Fabric-1.19.2-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gY0sChT6/versions/FATitiPE/AnvilRepairing-Fabric-1.19.2-2.0.1.jar"
+hash-format = "sha1"
+hash = "51c9d1556cfbab6833bf0086ff6c19622767a9be"
+
+[update]
+[update.modrinth]
+mod-id = "gY0sChT6"
+version = "FATitiPE"
