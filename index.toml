@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packwizml.cache"
+hash = "5265ddb2c5a3ef7dd4656a063d03d77aef928bd08dee27f4be7fdc699733c620"
+
+[[files]]
+file = "MODLIST.md"
+hash = "35a5717a8ee8870939b4cc8b998902aa77a8bda3d48202dda9b57ac63eee0b43"
+
+[[files]]
 file = "config/campanion.json"
 hash = "4b38fb8d2dae2be5611fa7d608a64c532cd14430f768f6cb236ab22782fc4fd8"
 
@@ -11,6 +19,10 @@ hash = "d341f1211c639a185633595664af15be8c6c53830a4919ec23712589ad19abc4"
 [[files]]
 file = "config/map_atlases.json5"
 hash = "3fbba49fc31ca248390dc3c8ad95a4d2e3c7a0e13a884f72f71092a37fbf0bce"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_c277767_MC1.19.x.zip"
+hash = "de864df5d25128c24217c62ed46a256efd125efeb073a1f92ca9284dcbddcc03"
 
 [[files]]
 file = "config/openloader/data/cheaper-map-crafting.pw.toml"
@@ -62,16 +74,6 @@ metafile = true
 [[files]]
 file = "mods/amecs.pw.toml"
 hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
-metafile = true
-
-[[files]]
-file = "mods/anvil-fix-reborn.pw.toml"
-hash = "5e19974ba55bda6674f8d185ef245da2931fbf1763cfd854dddd3132e00d5a1b"
-metafile = true
-
-[[files]]
-file = "mods/anvil-repairing.pw.toml"
-hash = "5e6f2a9709e4453a2350811091cb2d785ba5a3c394e7b83acf066799c1ed26d4"
 metafile = true
 
 [[files]]
@@ -195,6 +197,16 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e8aed42ec5c235a7809cfcf8dc32494e589a02527e780635a586e2d8fea0b1f0"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
@@ -258,10 +270,6 @@ metafile = true
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
-
-[[files]]
-file = "mods/figura-0.1.2+1.19.2-fabric-mc.jar"
-hash = "a63b02dc4f4b88b4bbb73bdd5f7040608ed97ef68877f4b1eaf4885a2a0a15df"
 
 [[files]]
 file = "mods/figura.pw.toml"
@@ -585,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
 
 [[files]]
