@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".packwizml.cache"
-hash = "5265ddb2c5a3ef7dd4656a063d03d77aef928bd08dee27f4be7fdc699733c620"
-
-[[files]]
 file = "MODLIST.md"
 hash = "35a5717a8ee8870939b4cc8b998902aa77a8bda3d48202dda9b57ac63eee0b43"
 
