@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a31d322db7fc41eeb9ce86c63d5a048c334c929b6e586eefe56565cb43c3056c"
+hash = "72b3ed45f236d4528817b4022ba711bb8379dc39b5901b6dec7ae88e01d8c52b"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ac5adf3efa6fe48e65b170b22616e6fd801415712f87c86a54c8fee812c5812"
+hash = "5fd1825cd90da246cf26ab003e925f3f5ae12902d73ae66229a15b4d12a3c43c"
 metafile = true
 
 [[files]]
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f607064c1338f271465eee416a77ae0475aed1a84559fc1deb1e4e3b33ceb66f"
+hash = "dc24d70cb4a11dc41c790b5c153ca4cc476b64f3a67705d53a53aca66cea0b93"
 metafile = true
 
 [[files]]
