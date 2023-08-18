@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "b4207bec27c7384998b4349abed959f81fb033b5bce212d44842b6b365484787"
+hash = "39307dee42dc94dcafc1236e597df8d032ace73232626fd3a3238d1ea6d4e8f3"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
-hash = "9f685b67475aff2e953ed22ed5992e259e51a324847ba84910996f7a89d79b57"
+hash = "5b933b50dea90842a5c363ff3975d4eaf60bdcc8a0428042a5d3890584767534"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleep.pw.toml"
-hash = "b362013784ee5b35eb668c1e642d19652e5ec22919ff50336f2f3883381022e9"
+hash = "36b18669ecf9b917c87bd00956db49faf7d3bd1745af0c292ca17833d01cbe0b"
 metafile = true
 
 [[files]]
