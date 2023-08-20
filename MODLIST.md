@@ -1,7 +1,5 @@
 - [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) - Replace those boring advancement popups with something flashier.
 - [Amecs](https://modrinth.com/mod/rcLriA4v) - Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.
-- [Anvil Fix Reborn](https://modrinth.com/mod/oIoAucDh) - Anvil Fix Reborn is a forked version of OnyxStudio's Anvil Fix mod, updated for versions later than 1.18.  It removes the "Too Expensive" mechanic from minecraft.
-- [Anvil Repairing](https://modrinth.com/mod/gY0sChT6) - Allows players to repair their chipped and damaged anvils.
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) - Food/hunger-related HUD improvements
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ) - An intermediary api aimed to ease developing multiplatform mods.
 - [bad packets](https://modrinth.com/mod/ftdbN0KK) - Bad Packets allows packet messaging between different modding platforms.
@@ -26,6 +24,8 @@
 - [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) - Makes the loading screen darker.
 - [DeathLog](https://modrinth.com/mod/TPAYeAOc) - Keeps track of the many embarrassing times you died
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) - Improve performance when Minecraft is in the background.
+- [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) - Be ready for overhauled anvils! Items stay, better name tags, many tweaks!
+- [Easy Magic](https://modrinth.com/mod/9hx3AbJM) - Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - Reduce FPS lag with block entities, as well as customize them with resource packs
 - [EMI Loot](https://modrinth.com/mod/qbbO7Jns) - A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.
 - [EMI](https://modrinth.com/mod/fRiHVvU7) - A featureful and accessible item and recipe viewer
@@ -58,6 +58,7 @@
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) - A dynamic lights mod for Fabric.
 - [LazyDFU](https://modrinth.com/mod/hvFnDODi) - Makes the game boot faster by deferring non-essential initialization
 - [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) - Quick leaf decay from cutting down trees. Built for fast performance and mod compat!
+- [Ledger](https://modrinth.com/mod/LVN9ygNV) - A serverside logging mod
 - [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) - Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.
 - [Let Sleeping Dogs Lie - Fabric](https://modrinth.com/mod/DpyXb96r) - Mod that lets dogs lie down after sitting for a while.
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) - No-compromises game logic/server optimization mod
@@ -90,7 +91,7 @@
 - [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) - A working voice chat in Minecraft!
 - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) - Making automation for Farmers Delight more sensible
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) - Features that shouldn't be in Sodium.
-- [Sodium](https://modrinth.com/mod/AANobbMI) - A modern rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing graphical issues
+- [Sodium](https://modrinth.com/mod/AANobbMI) - A modern rendering engine for Minecraft which greatly improves performance
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
 - [spark](https://modrinth.com/mod/l6YH9Als) - spark is a performance profiler for Minecraft clients, servers and proxies.
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC) - Rewrites the light engine to fix lighting performance and lighting errors
@@ -100,6 +101,7 @@
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) - Enhanced terrain generation with mountain ranges, underground rivers, and more!
 - [Trash Cans](https://modrinth.com/mod/4QrnfueM) - Trash Cans adds trash cans which can be used to void items, liquids, and energy!
 - [Trinkets](https://modrinth.com/mod/5aaWibi9) - A data-driven accessory mod
+- [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) - Items stay inside of crafting tables and are also rendered on top. It's really fancy!
 - [Very Many Players (Fabric)](https://modrinth.com/mod/wnEe9KBa) - A Fabric mod designed to improve server performance at high playercounts.
 - [Voice Chat Interaction](https://modrinth.com/mod/qsSP2ZZ0) - Voice chat skulk sensor activation and warden detection
 - [You're in Grave Danger](https://modrinth.com/mod/HnD1GX6e) - A mod focused around death. Will add graves to minecraft
