@@ -83,6 +83,11 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "5ed702367e498efec1eb02046d9f0ebbb5aadff4b4cf4ee84488e62ae7829f25"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true

@@ -2,6 +2,7 @@
 - [Amecs](https://modrinth.com/mod/rcLriA4v) - Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) - Food/hunger-related HUD improvements
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ) - An intermediary api aimed to ease developing multiplatform mods.
+- [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) - Put your own audio files on music discs!
 - [bad packets](https://modrinth.com/mod/ftdbN0KK) - Bad Packets allows packet messaging between different modding platforms.
 - [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
 - [Bedspreads](https://modrinth.com/mod/vNNL5mc7) - Allows players to add banner patterns to their beds! Formerly known as Cosmetic Beds.
