@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODLIST.md"
-hash = "51f3e37324f0fa0c3206a25cc1f6d92917e1034be7056f14d15ff1f2d636eb23"
+hash = "ca18a59c4b276c22eb6ef57ac7a53d479e14399c5a925b29d51df7fe8a52cdab"
 
 [[files]]
 file = "config/campanion.json"
