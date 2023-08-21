@@ -3,8 +3,8 @@
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) - Food/hunger-related HUD improvements
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ) - An intermediary api aimed to ease developing multiplatform mods.
 - [bad packets](https://modrinth.com/mod/ftdbN0KK) - Bad Packets allows packet messaging between different modding platforms.
+- [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
 - [Bedspreads](https://modrinth.com/mod/vNNL5mc7) - Allows players to add banner patterns to their beds! Formerly known as Cosmetic Beds.
-- [Better Nether Map](https://modrinth.com/mod/fdtm99de) - Makes maps work better in the Nether and in other cave dimensions.
 - [Bits And Chisels](https://modrinth.com/mod/q8MC5tW2) - Turn Blocks Into Small Bits With Chisels; Build All The Things
 - [Blur (Fabric)](https://modrinth.com/mod/NK39zBp2) - Adds a blur effect to all GUI backgrounds - now for Fabric!
 - [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) - Changes Fullscreen to use a borderless window.
@@ -68,10 +68,12 @@
 - [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) - Target Dummy that show damage dealt and can be equipped with armor
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) - Adds a mod menu to view the list of mods you have installed.
+- [Monsters in the Closet](https://modrinth.com/mod/GMA8jFBD) - Highlights the mobs that are preventing you from sleeping
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) - dynamic data pack and registration, villager activities, custom map marker and a lot more
 - [More Culling](https://modrinth.com/mod/51shyZVL) - A mod that changes how multiple types of culling are handled in order to improve performance
 - [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u) - A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more!
 - [Music Maker Mod](https://modrinth.com/mod/qQpWCN75) - Music Maker Mod adds music sheets, instruments and other devices to the game for creating and playing music.
+- [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) - Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.
 - [Not Just Biomes](https://modrinth.com/mod/EIT1cuHa) - A collection of modular enhancements to vanilla biomes and structures!
 - [Open Loader](https://modrinth.com/mod/KwWsINvD) - An open source resource and data loader for Minecraft.
 - [Origins](https://modrinth.com/mod/3BeIrqZR) - Players choose an Origin at the beginning of the game to gain benefits and drawbacks
@@ -93,8 +95,8 @@
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) - Features that shouldn't be in Sodium.
 - [Sodium](https://modrinth.com/mod/AANobbMI) - A modern rendering engine for Minecraft which greatly improves performance
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
-- [spark](https://modrinth.com/mod/l6YH9Als) - spark is a performance profiler for Minecraft clients, servers and proxies.
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC) - Rewrites the light engine to fix lighting performance and lighting errors
+- [Styled Nicknames](https://modrinth.com/mod/DOk6Gcdi) - Simple, but configurable nicknaming mod allowing your server's players (and admins) to change their nickname with full formatting support
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) - Config Lib makes dealing with config files just a bit easier.
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) - Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation
@@ -115,6 +117,7 @@
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) - Adds overhauled witch huts to swamps!
 - [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) - Extra structures, features, and vanilla+ content suitable for any modpack!
 - [Zoomglass](https://modrinth.com/mod/jRrJYVVU) - Use a spyglass quickly, with a press of a button!
+- [Better Nether Map](https://modrinth.com/mod/fdtm99de) - Makes maps work better in the Nether and in other cave dimensions.
 - [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) - Emojis in minecraft
 - [Lootr (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) - Nature's Compass is an item that allows you to locate biomes anywhere in the world.

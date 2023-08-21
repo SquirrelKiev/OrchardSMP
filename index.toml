@@ -507,13 +507,18 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "36b18669ecf9b917c87bd00956db49faf7d3bd1745af0c292ca17833d01cbe0b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "d0eb6342707c962cb7f745eb0389d180dbf414d77bda40a45fec144c4943ee19"
+hash = "a988c5413182f44e059470ae0c9022c53e38889f65a31f03c74d1d67a58eb99e"
 metafile = true
 
 [[files]]
@@ -544,11 +549,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "dc24d70cb4a11dc41c790b5c153ca4cc476b64f3a67705d53a53aca66cea0b93"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
+hash = "7ad022bf604bb173a777bd87c77b5117b7f4f78bafc194fd9245e42b3d8c7a74"
 metafile = true
 
 [[files]]
