@@ -5,6 +5,7 @@
 - [bad packets](https://modrinth.com/mod/ftdbN0KK) - Bad Packets allows packet messaging between different modding platforms.
 - [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
 - [Bedspreads](https://modrinth.com/mod/vNNL5mc7) - Allows players to add banner patterns to their beds! Formerly known as Cosmetic Beds.
+- [Better Nether Map](https://modrinth.com/mod/fdtm99de) - Makes maps work better in the Nether and in other cave dimensions.
 - [Bits And Chisels](https://modrinth.com/mod/q8MC5tW2) - Turn Blocks Into Small Bits With Chisels; Build All The Things
 - [Blur (Fabric)](https://modrinth.com/mod/NK39zBp2) - Adds a blur effect to all GUI backgrounds - now for Fabric!
 - [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) - Changes Fullscreen to use a borderless window.
@@ -117,7 +118,7 @@
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) - Adds overhauled witch huts to swamps!
 - [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) - Extra structures, features, and vanilla+ content suitable for any modpack!
 - [Zoomglass](https://modrinth.com/mod/jRrJYVVU) - Use a spyglass quickly, with a press of a button!
-- [Better Nether Map](https://modrinth.com/mod/fdtm99de) - Makes maps work better in the Nether and in other cave dimensions.
 - [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) - Emojis in minecraft
 - [Lootr (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) - Nature's Compass is an item that allows you to locate biomes anywhere in the world.
+- [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light) - Simple light for a complicated world.

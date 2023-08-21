@@ -552,6 +552,11 @@ hash = "dc24d70cb4a11dc41c790b5c153ca4cc476b64f3a67705d53a53aca66cea0b93"
 metafile = true
 
 [[files]]
+file = "mods/simply-light.pw.toml"
+hash = "e042a31030aeef75b55c1d23d8728fad0beeffe983c3dfe82200e31c5ca37fa8"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6b41f2f5b2c1c4afa61e91be9a0513c4cc1f7345765e0ed9879c0cd6f1f736ef"
 metafile = true
