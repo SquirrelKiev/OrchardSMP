@@ -602,11 +602,6 @@ hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
 metafile = true
 
 [[files]]
-file = "mods/tabtps.pw.toml"
-hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "24c5360aa4598486b3ef314583b2494762f66e9b578fe31b48d804f1cce95996"
 metafile = true
