@@ -622,11 +622,6 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh.pw.toml"
-hash = "b3a24095f2906bc6517cead5673d124ff29c354daf1d3f1109b220f8c5ac128e"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
