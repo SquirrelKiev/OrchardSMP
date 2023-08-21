@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODLIST.md"
-hash = "35a5717a8ee8870939b4cc8b998902aa77a8bda3d48202dda9b57ac63eee0b43"
+hash = "51f3e37324f0fa0c3206a25cc1f6d92917e1034be7056f14d15ff1f2d636eb23"
 
 [[files]]
 file = "config/campanion.json"
@@ -85,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
@@ -423,6 +428,11 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
 metafile = true
@@ -445,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
 metafile = true
 
 [[files]]
@@ -492,11 +507,6 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
-file = "mods/realisticsleep.pw.toml"
-hash = "36b18669ecf9b917c87bd00956db49faf7d3bd1745af0c292ca17833d01cbe0b"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
@@ -537,6 +547,11 @@ hash = "dc24d70cb4a11dc41c790b5c153ca4cc476b64f3a67705d53a53aca66cea0b93"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6b41f2f5b2c1c4afa61e91be9a0513c4cc1f7345765e0ed9879c0cd6f1f736ef"
 metafile = true
@@ -567,6 +582,11 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
 metafile = true
@@ -582,6 +602,11 @@ hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
 metafile = true
 
 [[files]]
+file = "mods/tabtps.pw.toml"
+hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "24c5360aa4598486b3ef314583b2494762f66e9b578fe31b48d804f1cce95996"
 metafile = true
@@ -594,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "b3a24095f2906bc6517cead5673d124ff29c354daf1d3f1109b220f8c5ac128e"
 metafile = true
 
 [[files]]
