@@ -402,6 +402,11 @@ hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "114a5ff78e24bc0794339becc35fc54c62c37e1b1122b9ce1aa5c7225cc1493a"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
 metafile = true
