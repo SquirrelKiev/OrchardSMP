@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODLIST.md"
-hash = "ca18a59c4b276c22eb6ef57ac7a53d479e14399c5a925b29d51df7fe8a52cdab"
+hash = "7aefb2c367713d04240ac08ad6592ec2f9be28315a2e412095356edb693c8cc6"
 
 [[files]]
 file = "config/campanion.json"
@@ -21,9 +21,12 @@ file = "config/openloader/data/VanillaTweaks_c277767_MC1.19.x.zip"
 hash = "de864df5d25128c24217c62ed46a256efd125efeb073a1f92ca9284dcbddcc03"
 
 [[files]]
-file = "config/openloader/data/cheaper-map-crafting.pw.toml"
-hash = "ce3c34c08fecc29cdd2c78ea656fa79088da73dc995898460342f657641ebec0"
-metafile = true
+file = "config/openloader/data/cheaper-map-crafting/data/cheaper_maps/recipes/cheap_maps.json"
+hash = "e0e5d2abc352695317e7f33504fdb3c99a73ad51471cd32a59e98e766c87436d"
+
+[[files]]
+file = "config/openloader/data/cheaper-map-crafting/pack.mcmeta"
+hash = "db444665fedda77cff13658ad8c797906e9b24482de491adc0135624451903df"
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"

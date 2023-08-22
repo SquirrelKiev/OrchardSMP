@@ -123,3 +123,4 @@
 - [Lootr (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) - Nature's Compass is an item that allows you to locate biomes anywhere in the world.
 - [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light) - Simple light for a complicated world.
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - In-game Minecraft map editor - build bigger things more quickly!
