@@ -103,6 +103,7 @@
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) - Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sconces, planters, lights, decoration and automation
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) - Enhanced terrain generation with mountain ranges, underground rivers, and more!
+- [Textile Backup](https://modrinth.com/mod/wwcspvkr) - Backup for Fabric
 - [Trash Cans](https://modrinth.com/mod/4QrnfueM) - Trash Cans adds trash cans which can be used to void items, liquids, and energy!
 - [Trinkets](https://modrinth.com/mod/5aaWibi9) - A data-driven accessory mod
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) - Items stay inside of crafting tables and are also rendered on top. It's really fancy!

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MODLIST.md"
-hash = "7aefb2c367713d04240ac08ad6592ec2f9be28315a2e412095356edb693c8cc6"
-
-[[files]]
 file = "config/campanion.json"
 hash = "4b38fb8d2dae2be5611fa7d608a64c532cd14430f768f6cb236ab22782fc4fd8"
 
@@ -612,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "24c5360aa4598486b3ef314583b2494762f66e9b578fe31b48d804f1cce95996"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
 
 [[files]]
